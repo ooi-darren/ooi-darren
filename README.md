@@ -27,7 +27,12 @@ Sourced from Department of Statistics Malaysia, Bank Negara Malaysia, and platfo
 
 `Python` — **Complete**
 
-Three case studies, chosen for range across industries and depth over volume. Additional case studies will be added once each of these is complete — not before.
+### ♻️ 004 — [Malaysia's E-Waste Opportunity: Recoverable Value vs. Formal Capture](https://github.com/ooi-darren/malaysia-ewaste-opportunity)
+**Question:** How much economic value in recoverable metals sits inside Malaysia's e-waste stream, how much is the formal recycling system actually capturing, and does that gap represent a real business opportunity or something else?
+
+`Python` — **Complete**
+
+Four case studies, chosen for range across industries and depth over volume. New case studies are added one at a time, each only once it's genuinely done — not before.
 
 ## How I work
 
