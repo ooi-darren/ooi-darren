@@ -54,7 +54,17 @@ Sourced from Department of Statistics Malaysia, Bank Negara Malaysia, and platfo
 
 `Python` — **Complete**
 
-Five case studies, chosen for range across industries and depth over volume. New case studies are added one at a time, each only once it's genuinely done — not before.
+### 🎓 006 — [Malaysia's Graduate (Un)employment: National, State, and District (2016–2026)](https://github.com/ooi-darren/malaysia-graduate-underemployment)
+
+<img src="./assets/006-graduate.png" width="640" alt="Graduation cap and briefcase with a question mark, representing graduate job search uncertainty">
+
+**Question:** Does Malaysia have a graduate unemployment crisis, or an underemployment one — and does that answer hold at the national level, across every state, and down to individual districts?
+
+Eight notebooks, the deepest funnel in this portfolio: national headline → age cohort → job quality → every state → structural explanation → every district → wage penalty → field-of-study mismatch. Includes a real data-quality bug found and corrected in a government dataset, and two notebooks where the first-draft finding was rewritten after the chart contradicted it.
+
+`Python` — **Complete**
+
+Six case studies, chosen for range across industries and depth over volume. New case studies are added one at a time, each only once it's genuinely done — not before.
 
 ## How I work
 
