@@ -32,7 +32,12 @@ Sourced from Department of Statistics Malaysia, Bank Negara Malaysia, and platfo
 
 `Python` — **Complete**
 
-Four case studies, chosen for range across industries and depth over volume. New case studies are added one at a time, each only once it's genuinely done — not before.
+### 🌐 005 — [Is Capital Really Leaving China? Global → Regional → Local (2019–2026)](https://github.com/ooi-darren/is-capital-leaving-china)
+**Question:** Does the "China+1" narrative — that capital is diversifying away from China toward alternative manufacturing destinations — actually show up in the data, at the global level, the ASEAN regional level, and specifically in Malaysia?
+
+`Python` — **Complete**
+
+Five case studies, chosen for range across industries and depth over volume. New case studies are added one at a time, each only once it's genuinely done — not before.
 
 ## How I work
 
