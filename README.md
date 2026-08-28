@@ -4,7 +4,7 @@ Deep-dive market research and analytics case studies, distilled into one answer:
 
 ## What this is
 
-A collection of consulting-style market research case studies. Each one starts from a real business question, investigates it in depth against public data — government statistics, industry reports, primary-source filings — with every figure traced to its source and every assumption labeled, and ends in a specific recommendation. Not a dashboard, not a chart deck: real research, distilled into a decision.
+A collection of rigorous market research case studies. Each one starts from a real business question, investigates it in depth against public data — government statistics, industry reports, primary-source filings — with every figure traced to its source and every assumption labeled, and ends in a specific recommendation. Not a dashboard, not a chart deck: real research, distilled into a decision.
 
 I'm a Business Analytics student at Sunway University, aiming for a career in strategy and management consulting, with a longer-term goal of leading my family's business.
 
