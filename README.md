@@ -22,9 +22,10 @@ Sourced from Department of Statistics Malaysia, Bank Negara Malaysia, and platfo
 
 `Python` `SQL` — **Complete**
 
-### 🏦 003 — Digital Banks vs. Incumbents: Malaysia's Banking Shake-Up
-**Question:** How are Malaysia's newly licensed digital banks reshaping competitive strategy for incumbent banks, and what should businesses weigh in choosing banking and payments partners?
-`Planned`
+### 🌱 003 — [Malaysia Grid Decarbonization: On Track or Overstated? (2017–2024)](https://github.com/ooi-darren/malaysia-grid-decarbonization)
+**Question:** Is Malaysia's electricity grid decarbonizing fast enough to meet its own climate commitments, and what does that pace mean for a business deciding whether to wait on the grid vs. invest in its own renewable capacity to hit its emissions targets?
+
+`Python` — **Complete**
 
 Three case studies, chosen for range across industries and depth over volume. Additional case studies will be added once each of these is complete — not before.
 
