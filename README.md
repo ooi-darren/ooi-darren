@@ -8,7 +8,10 @@ A collection of rigorous market research case studies. Each one starts from a re
 
 I'm a Business Analytics student at Sunway University, aiming for a career in strategy and management consulting, with a longer-term goal of leading my family's business.
 
-**Short on time? Start with [005](https://github.com/ooi-darren/is-capital-leaving-china)**; it's the one that best shows the range of this work: a single question tested across three independent public data sources at three different geographic scales, each layer either confirming or complicating the one before it.
+**Reading on a schedule?**
+- **5 minutes:** [007](https://github.com/ooi-darren/project-007-global-consumer-spending), the most ambitious piece here: a 182-country global panel, a market attractiveness index with a transparent methodology and sensitivity check, and a real technical problem solved in the open (an API integration initially descoped, then genuinely fixed).
+- **20 minutes:** [006](https://github.com/ooi-darren/malaysia-graduate-underemployment) for depth (8 notebooks, one country funneled from national headline down to individual districts) or [005](https://github.com/ooi-darren/is-capital-leaving-china) for range (one question tested across three independent data sources at three different geographic scales).
+- **The full portfolio:** everything below, roughly in the order it was built.
 
 ## Case Studies
 
@@ -84,7 +87,7 @@ Every repo includes a `requirements.txt` and a "Reproducing This Analysis" secti
 
 ## Toolkit
 
-Python · SQL · R · Power BI · Excel · Git
+Python · SQL · Power BI · Git
 
 ## Contact
 
