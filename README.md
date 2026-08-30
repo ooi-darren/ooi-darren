@@ -9,7 +9,7 @@ A collection of rigorous market research case studies. Each one starts from a re
 I'm a Business Analytics student at Sunway University, aiming for a career in strategy and management consulting, with a longer-term goal of leading my family's business.
 
 **Reading on a schedule?**
-- **5 minutes:** [007](https://github.com/ooi-darren/project-007-global-consumer-spending), the most ambitious piece here: a 182-country global panel, a market attractiveness index with a transparent methodology and sensitivity check, and a real technical problem solved in the open (an API integration initially descoped, then genuinely fixed).
+- **5 minutes:** [008](https://github.com/ooi-darren/project-008-global-supply-chain-intelligence), the most complete system here: a 57-country trade network, a critical-minerals concentration index, a transparent supply chain risk index, a validated 2030 forecast, and a Monte Carlo simulation, all in one project.
 - **20 minutes:** [006](https://github.com/ooi-darren/malaysia-graduate-underemployment) for depth (8 notebooks, one country funneled from national headline down to individual districts) or [005](https://github.com/ooi-darren/is-capital-leaving-china) for range (one question tested across three independent data sources at three different geographic scales).
 - **The full portfolio:** everything below, roughly in the order it was built.
 
@@ -77,7 +77,17 @@ The first case study in this portfolio to go fully global: a 182-country, 11-yea
 
 `Python`; **Complete**
 
-Seven case studies, chosen for range across industries and depth over volume. New case studies are added one at a time, each only once it's genuinely done, not before.
+### 🌐 008: [Project 008: Global Supply Chain Intelligence](https://github.com/ooi-darren/project-008-global-supply-chain-intelligence)
+
+<img src="./assets/008-supply-chain.png" width="640" alt="Network graph with a central accented hub node, representing trade network centrality analysis">
+
+**Question:** How has the global supply-chain system changed over the past decade, where are the major dependencies and vulnerabilities right now, what could happen over the next 5-10 years under different scenarios, and what does all of this mean for Malaysia specifically?
+
+The most complete system in this portfolio: a 57-country bilateral trade network with betweenness/eigenvector/PageRank centrality analysis, a 13-material critical-minerals concentration index (HHI/CR3/CR5) built from real USGS production data, a transparent, sensitivity-tested Supply Chain Risk Index, a Malaysia export forecast to 2030 validated by a genuine 5-year rolling backtest, a 10,000-path Monte Carlo simulation on nickel prices, and a dedicated Malaysia 2030+ Vulnerability Index and evidence-graded Opportunity Radar.
+
+`Python`; **Complete**
+
+Eight case studies, chosen for range across industries and depth over volume. New case studies are added one at a time, each only once it's genuinely done, not before.
 
 ## How I work
 
