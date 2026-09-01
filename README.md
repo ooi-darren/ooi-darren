@@ -9,8 +9,8 @@ A collection of rigorous market research case studies. Each one starts from a re
 I'm a Business Analytics student at Sunway University, aiming for a career in strategy and management consulting, with a longer-term goal of leading my family's business.
 
 **Reading on a schedule?**
-- **5 minutes:** [009](https://github.com/ooi-darren/project-009-global-opportunity-intelligence), the decision layer built on top of 007 and 008: a red-teamed, sensitivity-tested opportunity portfolio with evidence-graded (A-E) market-entry recommendations, Monte Carlo scenario ranges, and a dedicated Malaysia capability-gap analysis.
-- **20 minutes:** [006](https://github.com/ooi-darren/malaysia-graduate-underemployment) for depth (8 notebooks, one country funneled from national headline down to individual districts) or [008](https://github.com/ooi-darren/project-008-global-supply-chain-intelligence) for the most complete single system (a 59-country trade network, a critical-minerals concentration index, a supply chain risk index, and a validated 2030 forecast, all in one project).
+- **5 minutes:** [008](https://github.com/ooi-darren/project-008-global-supply-chain-intelligence), the most complete system here: a genuinely complete 59-country trade network, a critical-minerals concentration index, a transparent supply chain risk index, a validated 2030 forecast, and a Monte Carlo simulation, all in one project.
+- **20 minutes:** [006](https://github.com/ooi-darren/malaysia-graduate-underemployment) for depth (8 notebooks, one country funneled from national headline down to individual districts) or [005](https://github.com/ooi-darren/is-capital-leaving-china) for range (one question tested across three independent data sources at three different geographic scales).
 - **The full portfolio:** everything below, roughly in the order it was built.
 
 ## Case Studies
@@ -87,17 +87,7 @@ The most complete system in this portfolio: a genuinely complete 59-country bila
 
 `Python`; **Complete**
 
-### 🧭 009: [Global Opportunity Intelligence & Market Entry](https://github.com/ooi-darren/project-009-global-opportunity-intelligence)
-
-<img src="./assets/009-opportunity-radar.png" width="640" alt="Concentric radar rings with scattered opportunity dots, one highlighted in blue at the center, representing an evidence-graded opportunity portfolio">
-
-**Question:** Which countries and categories are genuine market-entry white space, not just growing markets, how should a new entrant approach each one, and what is Malaysia's own comparative advantage relative to these same markets?
-
-The commercial decision layer connecting 007 (consumer demand) and 008 (supply-chain structure): a 25-phase system building competitive intelligence, unit-economics margin benchmarks, statistically-honest forecasting with real confidence intervals, Monte Carlo scenario ranges, mandatory sensitivity and weight-instability testing, a red-team pass against its own headline conclusions, an explicit opportunity kill list, and a three-part Malaysia deep dive (macro positioning, export radar, capability gap). Closes with a composite opportunity score and evidence grading (A-E) that deliberately keeps "highest score" and "highest confidence" visible as two different things, and an [interactive dashboard](https://claude.ai/code/artifact/7f7f9671-0779-41b3-9bff-b600443b0289).
-
-`Python`; **Complete**
-
-Nine case studies, chosen for range across industries and depth over volume. New case studies are added one at a time, each only once it's genuinely done, not before.
+Eight case studies, chosen for range across industries and depth over volume. New case studies are added one at a time, each only once it's genuinely done, not before.
 
 ## How I work
 
