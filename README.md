@@ -22,7 +22,7 @@ I'm a Business Analytics student at Sunway University, aiming for a career in st
 
 Sourced from Department of Statistics Malaysia, Bank Negara Malaysia, and platform market intelligence, with every figure traced to its source and labeled public, derived, or estimated.
 
-`Python` `SQL` `Power BI`; **Complete**
+`Python` `SQL`; **Complete**
 
 ### 📦 002: [Malaysia's Semiconductor Shortage: Manufacturing Under Pressure (2021–2023)](https://github.com/ooi-darren/malaysia-semiconductor-shortage-impact)
 
@@ -76,7 +76,7 @@ The first case study in this portfolio to go fully global: a 182-country, 11-yea
 
 `Python`; **Complete**
 
-### 🌐 008: [Project 008: Global Supply Chain Intelligence](https://github.com/ooi-darren/project-008-global-supply-chain-intelligence)
+### 🌐 008: [Global Supply Chain Intelligence](https://github.com/ooi-darren/project-008-global-supply-chain-intelligence)
 
 <img src="./assets/008-supply-chain.png" width="640" alt="Network graph with a central accented hub node, representing trade network centrality analysis">
 
@@ -96,7 +96,7 @@ Every repo includes a `requirements.txt` and a "Reproducing This Analysis" secti
 
 ## Toolkit
 
-Python · SQL · Power BI · Git
+Python · SQL · Git
 
 ## Contact
 
