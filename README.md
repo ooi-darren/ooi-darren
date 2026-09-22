@@ -86,7 +86,17 @@ The most complete system in this portfolio: a genuinely complete 59-country bila
 
 `Python`; **Complete**
 
-Eight case studies, chosen for range across industries and depth over volume. New case studies are added one at a time, each only once it's genuinely done, not before.
+### 🌴 009: [Malaysia's Palm Oil: Value Chain, Crisis, and What's Next](https://github.com/ooi-darren/malaysia-palm-oil)
+
+<img src="./assets/009-palmoil.png" width="640" alt="Palm tree with a fruit bunch and trunk, representing Malaysia's palm oil industry">
+
+**Question:** Where does the money actually go in Malaysia's palm oil value chain, and is the country's push beyond raw production, into certification, downstream processing, and now entirely new products, actually paying off?
+
+The first case study in this portfolio built primarily on company financial disclosures (SD Guthrie, IOI, KLK, Genting Plantations FY2025 segment results) rather than government statistics alone. Traces the industry from its 1917 origin through Indonesia's 2007 overtake, a real margin-capture finding (upstream earned 5x what downstream did in FY2025), an honestly-disclosed data-licensing issue found and corrected mid-project, the 2026 Iran war's effect on palm oil's price link to crude oil, and closes on Sawit EcoTherm, Malaysia's genuinely new bet on palm oil as an AI data centre coolant.
+
+`Python`; **Complete**
+
+Nine case studies, chosen for range across industries and depth over volume. New case studies are added one at a time, each only once it's genuinely done, not before.
 
 ## How I work
 
