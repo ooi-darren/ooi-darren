@@ -96,7 +96,17 @@ The first case study in this portfolio built primarily on company financial disc
 
 `Python`; **Complete**
 
-Nine case studies, chosen for range across industries and depth over volume. New case studies are added one at a time, each only once it's genuinely done, not before.
+### ✈️ 010: [AirAsia / Capital A: The Whole Ecosystem (History, the Business Empire, and the 2026 Crisis)](https://github.com/ooi-darren/airasia-capital-a)
+
+<img src="./assets/010-airasia.png" width="640" alt="Stylised climbing airplane icon representing AirAsia Group and Capital A">
+
+**Question:** "AirAsia" today is actually two separate companies with five other businesses between them, logistics, aircraft maintenance, a travel app, a fintech brand, and a catering arm. Is the September 2026 crisis a symptom of a broadly struggling ecosystem, or is it concentrated in one piece of it?
+
+An 18-notebook segment-first structure covering both companies that emerged from a January 2026 reverse acquisition (Capital A Berhad and AirAsia Group Berhad) and all six businesses between them, the first case study in this portfolio built around one company's own financial statements as its core structure. Includes a direct balance-sheet reconciliation (a widely-cited RM18.4 billion liabilities figure vs RM2.76 billion in lease liabilities vs the real RM14.5 billion working-capital deficit neither side's framing stated), and a same-quarter portfolio scorecard showing the airline is the only one of the six businesses examined that shrank in 2Q2026.
+
+`Python` `SQL`; **Complete**
+
+Ten case studies, chosen for range across industries and depth over volume. New case studies are added one at a time, each only once it's genuinely done, not before.
 
 ## How I work
 
