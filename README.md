@@ -106,7 +106,17 @@ An 18-notebook segment-first structure covering both companies that emerged from
 
 `Python` `SQL`; **Complete**
 
-Ten case studies, chosen for range across industries and depth over volume. New case studies are added one at a time, each only once it's genuinely done, not before.
+### 🖥️ 011: [Malaysia's AI Data Centre Boom: Committed Capacity vs. Real Demand](https://github.com/ooi-darren/malaysia-ai-data-centre-boom)
+
+<img src="./assets/011-datacentre.png" width="640" alt="Stylised server rack icon representing Malaysia's AI data centre boom">
+
+**Question:** Malaysia's own grid operator discloses that only 15% of secured data centre capacity is actually drawing power. Is this a real, fast-scaling economic boom, or a pipeline of announcements running well ahead of reality, and who is actually capturing value from it?
+
+The first case study in this portfolio centred on infrastructure and energy rather than a single company or product market. Traces the boom from why it landed in Johor (and corrects its own early framing to show real construction also spans Selangor and Negeri Sembilan), through a direct reconciliation of TNB's committed-vs-utilised capacity gap, to a value-capture scorecard across landowners, the grid operator, contractors, the one audited operator (YTL Power), and hyperscalers, whose pledges remain fundamentally unverifiable with public information. Surfaces a previously undisclosed government policy quietly filtering non-AI data centre applications for two years, and a Recommendation broken out by investor, contractor, and policymaker audience.
+
+`Python` `SQL`; **Complete**
+
+Eleven case studies, chosen for range across industries and depth over volume. New case studies are added one at a time, each only once it's genuinely done, not before.
 
 ## How I work
 
